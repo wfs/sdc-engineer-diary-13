@@ -1,4 +1,4 @@
-+++?image=assets/1.png&size=80% 80%
++++?image=assets/1.png
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/2.png
 <!-- .slide: data-background-transition="none" -->
