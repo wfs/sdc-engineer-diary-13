@@ -1,3 +1,5 @@
++++?image=assets/0.png
+<!-- .slide: data-background-transition="none" -->
 +++?image=assets/1.png
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/2.png
